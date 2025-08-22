@@ -13,5 +13,4 @@ Features
 Installation
 Clone the repository:
 ```bash
-git clone https://github.com/xaviersimon27/moonshot-simulator.git
-cd moonshot-simulator
+https://github.com/xaviersimon27/moonshot-simulator.git
